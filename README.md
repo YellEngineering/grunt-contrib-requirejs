@@ -3,6 +3,8 @@
 > Optimize RequireJS projects using r.js
 
 
+# Updated to include r.js 2.3.6 !!!!
+
 
 ## Getting Started
 
